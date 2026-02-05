@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmad Is'eed
+#  Hi, I'm Ahmad Is'eed
 
 **Full-Stack Web Developer** 🚀 | **Computer Systems Engineer**  
 Building modern, responsive, and intelligent web applications
