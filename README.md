@@ -40,7 +40,6 @@ GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/githu
 Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>  
 
 - Deploy apps with **AWS** and **Render**  
-- Version control, CI/CD, containerization  
 
 ---
 
